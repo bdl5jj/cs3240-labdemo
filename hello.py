@@ -1,3 +1,4 @@
 __author__ = 'bdl5jj'
 
-print("hello")
+def greeting(msg):
+	print(msg)
